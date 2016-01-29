@@ -1,0 +1,1 @@
+This is script made to be used by Hudson for iOS project continuous integration.
